@@ -1,0 +1,5 @@
+username = '12144311992'
+client_id ='3763bd81f47c4f0583c88f22f98160a5'
+client_secret = '4c20dd897e174ce18c99ae14ce4f871f'
+redirect_uri = 'http://localhost:8080/callback'
+scope = 'user-read-recently-played'
